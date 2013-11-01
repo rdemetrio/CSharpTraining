@@ -25,6 +25,8 @@ namespace ManipulateStrings
             TestReplaceStrings();
             Console.WriteLine();
             Console.WriteLine("***END REPLACE***");
+
+
            
             Console.ReadKey();
         }
